@@ -2,10 +2,11 @@
  
 ![Logo](https://media.glassdoor.com/sqll/147645/c5-international-squarelogo-1428399413023.png)
 
+## Component 5
  
-The main aim of this repository is to know how to work in teams and w o coordinate our work together as a team.
+The main aim of this repository is to know how to work in teams and coordinate our work together as a team.
 
-## Omar Waleed 37-5574
+   ## Omar Waleed 37-5574
    Omar a BI student he is the only man in the group he likes football.
    
    
